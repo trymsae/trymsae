@@ -1,4 +1,4 @@
-# 🤠 Howdy, I'm [trymsae](https://github.com/trymsae)!
+# 🤠 Howdy, I'm Trym!
 
 - 👷 I work with Identity & Access Management.
 - 🤔 I think in powershell.
